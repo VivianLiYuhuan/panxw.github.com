@@ -3,15 +3,15 @@ highlighter: pygments
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
-github: panxw
-author: "潘学文"
-email: winfirm#163.com
-name: "潘学文个人博客"
-url: http://www.panxw.com
-domain: www.panxw.com
+github: vivianliyuhuan
+author: "李玉环"
+email: #163.com
+name: "李玉环个人博客"
+url: http://www.slipscloud.com
+domain: www.slipscloud.com
 all_categories: [
-["android", "Android开发","/posts/android.html"], 
-["program", "软件编程","/posts/program.html"],
+["android", "Android开发-test","/posts/android.html"], 
+["program", "软件编程hhh","/posts/program.html"],
 ["web", "Web建站","/posts/web.html"], 
 ["linux", "Linux相关","/posts/linux.html"],
 ["read", "读书笔记","/posts/read.html"], 
