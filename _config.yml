@@ -10,12 +10,10 @@ name: "李玉环个人博客"
 url: http://www.slipscloud.com
 domain: www.slipscloud.com
 all_categories: [
-["android", "Android开发-test","/posts/android.html"], 
-["program", "软件编程hhh","/posts/program.html"],
-["web", "Web建站","/posts/web.html"], 
-["linux", "Linux相关","/posts/linux.html"],
-["read", "读书笔记","/posts/read.html"], 
-["other", "杂记","/posts/other.html"],
+["android", "产品","/posts/android.html"], 
+["program", "帮助","/posts/program.html"],
+["web", "联系我们","/posts/web.html"], 
+["linux", "注册","/posts/linux.html"],
 ["about", "关于","/about.html"]
 ]
 
