@@ -1,30 +1,37 @@
+
+exclude:
+  - "/vendor/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "README.md"
+  - "LICENSE.md"
+  - "*.gemspec"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+
+# Site settings
+title: Airspace
+subtitle: "A free HTML5 agency template"
+url: "http://luminousrubyist.github.io" # the base hostname & protocol for your site
+# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+baseurl: "/airspace-jekyll"
+cover: "/assets/cover.png"
+logo: "/assets/logo.png"
+
+# Build settings
 markdown: kramdown
-highlighter: pygments
-permalink: /posts/:title.html
-excerpt_separator: "<!-- more -->"
 
-github: vivianliyuhuan
-author: "智简云"
-email: marketing#slipscloud.com
-name: "智简云"
-url: http://www.slipscloud.com
-domain: www.slipscloud.com
-all_categories: [
-["android", "产品","/posts/android.html"], 
-["customer", "案例","/customer.html"]
-["program", "帮助","/posts/program.html"],
-["web", "联系我们","/posts/web.html"], 
-["linux", "注册","/posts/linux.html"],
-["about", "关于","/about.html"]
-]
+# Google analytics
+# ga_tracking_id: "UA-XXXX-1"
 
-paginate: 8
-paginate_path: "posts/page:num"
-timezone: America/Los_Angeles
+# Category descriptions (for archive pages)
+descriptions:
+  - cat: jekyll
+    desc: "Posts describing Jekyll setup techniques."
 
-collections:
-  docs:
-    output: true
-
-gems:
- - jekyll-paginate
+  - cat: dummy
+    desc: "Just some placeholder posts, lorem ipsum and the rest."
