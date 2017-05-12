@@ -2,7 +2,7 @@
 layout: page
 title: "关于：About"
 ---
-Welcome to visit my blog!
+Welcome to Slips Cloud
 
 #### 1.Personal Info
 Name: SlipsCloud
