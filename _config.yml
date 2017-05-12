@@ -4,13 +4,14 @@ permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
 github: vivianliyuhuan
-author: "李玉环"
-email: #163.com
-name: "李玉环个人博客"
+author: "智简云"
+email: marketing#slipscloud.com
+name: "智简云"
 url: http://www.slipscloud.com
 domain: www.slipscloud.com
 all_categories: [
 ["android", "产品","/posts/android.html"], 
+["customer", "案例","/customer.html"]
 ["program", "帮助","/posts/program.html"],
 ["web", "联系我们","/posts/web.html"], 
 ["linux", "注册","/posts/linux.html"],
